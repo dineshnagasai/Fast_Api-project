@@ -1,0 +1,6 @@
+first_name,last_name,email,phone_number,age,department
+Tenzin,Dorje,tenzin.dorje01@example.com,9876543501,20,CSE
+Lobsang,Tsering,lobsang.tsering01@example.com,9876543502,21,ECE
+Pema,Wangchuk,pema.wangchuk01@example.com,9876543503,19,IT
+Sonam,Choden,sonam.choden01@example.com,9876543504,22,MECH
+Kunga,Namgyal,kunga.namgyal01@example.com,9876543505,20,CIVIL

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+.env
+*.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
